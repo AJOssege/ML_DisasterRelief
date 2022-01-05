@@ -5,7 +5,7 @@ Using ML for Disaster Relief Prediction of Locations of Human Aid Needs in Haiti
 
 *	Need to scour millions of photos to identify blue tarps in order to provide relief.(humanitarian crisis/aid)
 * Images quantified using RGB , and clusters for Blue Tarps were built comparing QDA, LDA, SVM, Logistic, and other models
-* Accuracy in final model was X%, allowing for greater prediction….
+* Accuracy in final model was 99% using random forest ML allowing for greater prediction of human need
 
 
 ## Introduction
